@@ -1,0 +1,14 @@
+table#t1 tr:nth-child(odd){
+    background-color: rgb(197, 197, 197);
+
+}
+table, td, th{
+    border: 2px solid rgb(78, 78, 78);
+
+    text-align: center;
+
+}
+
+body{
+    background-color: black;
+}
